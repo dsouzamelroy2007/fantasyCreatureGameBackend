@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067ef1ff-d899-44ea-8241-5f72fc9b30f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iaSx677VFRfRvnkbFQozdM183T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.assignment.spark.repository" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.assignment.spark.model.constant" />
+      <recent name="com.assignment.spark.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CreatureServiceTest">
+    <configuration name="CreatureServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveCodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.spark.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assignment.spark.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment.spark.service.CreatureServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatureServiceTest.testCalculateLeadershipValueForCreatureWithOneAttributeValuesGreaterThan5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveCodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.spark.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assignment.spark.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment.spark.service.CreatureServiceTest" />
+      <option name="METHOD_NAME" value="testCalculateLeadershipValueForCreatureWithOneAttributeValuesGreaterThan5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatureServiceTest.testCalculateLeadershipValueForCreatureWithTwoAttributeValuesGreaterThan5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveCodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.spark.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assignment.spark.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment.spark.service.CreatureServiceTest" />
+      <option name="METHOD_NAME" value="testCalculateLeadershipValueForCreatureWithTwoAttributeValuesGreaterThan5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatureServiceTest.testGetCreatureByNameSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveCodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.spark.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assignment.spark.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment.spark.service.CreatureServiceTest" />
+      <option name="METHOD_NAME" value="testGetCreatureByNameSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatureServiceTest.testLeaderValueChangesAfterCreaturesAttributeValueIsUpdated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveCodingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.spark.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.assignment.spark.service" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment.spark.service.CreatureServiceTest" />
+      <option name="METHOD_NAME" value="testLeaderValueChangesAfterCreaturesAttributeValueIsUpdated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreatureServiceTest" />
+        <item itemvalue="JUnit.CreatureServiceTest.testLeaderValueChangesAfterCreaturesAttributeValueIsUpdated" />
+        <item itemvalue="JUnit.CreatureServiceTest.testGetCreatureByNameSuccess" />
+        <item itemvalue="JUnit.CreatureServiceTest.testCalculateLeadershipValueForCreatureWithTwoAttributeValuesGreaterThan5" />
+        <item itemvalue="JUnit.CreatureServiceTest.testCalculateLeadershipValueForCreatureWithOneAttributeValuesGreaterThan5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067ef1ff-d899-44ea-8241-5f72fc9b30f5" name="Default Changelist" comment="" />
+      <created>1602144452538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602144452538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="220" key="#CreatureRepositoryTest" timestamp="1602156758651">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="465" y="220" key="#CreatureRepositoryTest/0.23.1792.1032@0.23.1792.1032" timestamp="1602156758651" />
+    <state x="465" y="219" key="#CreatureServiceTest.testActionAllowedOnACreatureTrue" timestamp="1602156765914">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="465" y="219" key="#CreatureServiceTest.testActionAllowedOnACreatureTrue/0.23.1792.1032@0.23.1792.1032" timestamp="1602156765914" />
+    <state width="1653" height="323" key="GridCell.Tab.0.bottom" timestamp="1602189727555">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1602156778963" />
+    <state width="1653" height="323" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1602189727555" />
+    <state width="1653" height="323" key="GridCell.Tab.0.center" timestamp="1602189727555">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="276" key="GridCell.Tab.0.center/0.23.1792.1032@0.23.1792.1032" timestamp="1602156778962" />
+    <state width="1653" height="323" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1602189727555" />
+    <state width="1653" height="323" key="GridCell.Tab.0.left" timestamp="1602189727554">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="276" key="GridCell.Tab.0.left/0.23.1792.1032@0.23.1792.1032" timestamp="1602156778962" />
+    <state width="1653" height="323" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1602189727554" />
+    <state width="1653" height="323" key="GridCell.Tab.0.right" timestamp="1602189727555">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="276" key="GridCell.Tab.0.right/0.23.1792.1032@0.23.1792.1032" timestamp="1602156778963" />
+    <state width="1653" height="323" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1602189727555" />
+    <state width="1653" height="330" key="GridCell.Tab.1.bottom" timestamp="1602189721368">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="330" key="GridCell.Tab.1.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1602189721368" />
+    <state width="1653" height="330" key="GridCell.Tab.1.center" timestamp="1602189721368">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="330" key="GridCell.Tab.1.center/0.23.1792.1043@0.23.1792.1043" timestamp="1602189721368" />
+    <state width="1653" height="330" key="GridCell.Tab.1.left" timestamp="1602189721368">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="330" key="GridCell.Tab.1.left/0.23.1792.1043@0.23.1792.1043" timestamp="1602189721368" />
+    <state width="1653" height="330" key="GridCell.Tab.1.right" timestamp="1602189721368">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1653" height="330" key="GridCell.Tab.1.right/0.23.1792.1043@0.23.1792.1043" timestamp="1602189721368" />
+    <state x="402" y="118" key="SettingsEditor" timestamp="1602145323907">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="402" y="118" key="SettingsEditor/0.23.1792.1032@0.23.1792.1032" timestamp="1602145323907" />
+    <state x="537" y="277" width="670" height="676" key="search.everywhere.popup" timestamp="1602180920864">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="537" y="277" width="670" height="676" key="search.everywhere.popup/0.23.1792.1043@0.23.1792.1043" timestamp="1602180920864" />
+  </component>
+</project>
